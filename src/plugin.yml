@@ -1,0 +1,30 @@
+main: com.vhbob.oitc.Main
+name: BowBattles
+version: 1.0
+author: vhbob
+api-version: 1.13
+depend: [Vault]
+description: This plugin allows the server to run a One in the Chamber gamemode
+commands:
+  chamber:
+    aliases: [oitc, OneInTheChamber, BowBattles, BB]
+    description: The root command for One in the Chamber
+permissions:
+  oitc.add.spawn:
+    description: allows the user to add a spawn to an arena
+  oitc.set.lobby:
+    description: allows the user to set the lobby location
+  oitc.create.sign:
+    description: allows the user to create a sign to join an arena
+  oitc.delete.arena:
+    description: allows the user to delete arenas
+  oitc.set.waitingroom:
+    description: allows the user to set the location of a waiting room for an arena
+  oitc.break.sign:
+    description: allows the user to break arena signs
+  oitc.reload.config:
+    description: allows the user to reload the config
+  oitc.force.start:
+    description: allows the user to force an arena to start
+  oitc.force.restart:
+    description: allows the user to force an arena to restart

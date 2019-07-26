@@ -1,0 +1,27 @@
+min-players: 4
+max-players: 16
+rounds: 5
+reward: 1
+win-reward: 10
+lobby-gamemode: ADVENTURE
+game-gamemode: ADVENTURE
+hide-names: TRUE
+leaderboard: "&B&LBow Battles Leaderboard"
+red-win: "&4&LRED TEAM WINS!!!"
+blue-win: "&9&LBLUE TEAM WINS!!!"
+red-score: "&4&LRED TEAM SCORES!"
+blue-score: "&9&LBLUE TEAM SCORES!"
+next-round: "&3&LNext round starting in 5 seconds!"
+game-start: "&3&LGame starting in 5 seconds!"
+low-players: "&4&LGame ending because player count is too low"
+setup-error: "&4&LThe was an error in the arena setup!"
+placed-on-red: "You have been placed on the &4&Lred &rteam"
+placed-on-blue: "You have been placed on the &9&Lblue &rteam"
+no-permisson: "&4&LYou do not have permission to use that command!"
+sign-created: "&a&LSign created!"
+cant-find-arena: "&4&LCould not find the arena! This command is case sensitive"
+waiting-room-set: "&A&LWaiting room set!"
+lobby-set: "&A&LLobby set to your location!"
+leave-game: "&4&LYou left the game"
+arena-full: "&4&LThat arena is full!"
+already-running: "&4&LThat arena is already running!"
